@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(7, 7, 7); 
+    /* * altera a cor de fundo */
+    color: rgb(252, 248, 248);
+    /* * muda a cor do texto */
+    text-align: center;
+    /* * muda o alinhamento do texto */
+    margin: 0;
+    /* * espaçamento externo */
+}
+
+h1{
+    margin: 50px;
+    padding: 30px ;
+    border-radius: 20px;
+}
+main{
+    background-color: rgb(203, 249, 255);
+    padding: 20px;
+}
+.cabecalho{
+    background-color: rgb(113, 170, 197);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    color: white;
+    padding: 24px;
+    font-size: 24px;
+    text-decoration: none;
+}
